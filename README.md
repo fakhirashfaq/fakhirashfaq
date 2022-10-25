@@ -4,7 +4,7 @@ My Name is Fakhir Ashfaq and I am a Frontend Developer (Angular , React JS, Web3
 
 - 🔭 I’m currently working on Frontend-Development <img src="https://img.icons8.com/external-lylac-kerismaker/32/000000/external-Frontend-web-development-lylac-kerismaker.png" width="20"/>
 - 🌱 I’m currently learning new JS frameworks and libraries <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width= "30"/>
-- 👯 I’m looking to collaborate on Frontend Projects <img src="https://img.icons8.com/ios-filled/50/000000/angularjs.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width= "30"/>
+- 👯 I’m looking to collaborate on Frontend Projects <img src="https://img.icons8.com/color/50/000000/angularjs.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width= "30"/>
 - 💬 Ask me about <img src="https://img.icons8.com/color/50/000000/angularjs.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width= "30"/>
  <img src="https://cdn-icons-png.flaticon.com/256/919/919825.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/>
 
